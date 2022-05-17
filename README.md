@@ -5,6 +5,7 @@ Paper: <https://ieeexplore.ieee.org/document/8579018>
 ## Instructions to use
 
 Refer to the colab notebook.
+Notebook Link : <https://colab.research.google.com/drive/1ffgSYtB8vqr2LOORH9McnLnu9xpdoxf1?usp=sharing>
 
 ## Trained model weights
 
