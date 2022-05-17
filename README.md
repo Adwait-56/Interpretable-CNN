@@ -6,6 +6,10 @@ Paper: <https://ieeexplore.ieee.org/document/8579018>
 
 Refer to the colab notebook.
 
+## Trained model weights
+
+<https://drive.google.com/drive/folders/1tLKc8CBLYhYNS4G2PKoxaxeCYZWZnruo>
+
 The authors of this code are:
 
     Adwait Kulkarni - 2019A7PS0120
